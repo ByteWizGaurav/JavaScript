@@ -25,7 +25,7 @@ t2.from("#second section h1, #second section p", {
     // delay: 1,
     scrollTrigger:{
         trigger: "#second", 
-        start: "top top",
+        start: "top 80%",
         markers: true,
     },
 })
